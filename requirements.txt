@@ -1,10 +1,4 @@
-python
 streamlit
 pandas
 plotly
 prophet
-forecasting
-data-analysis
-dashboard
-machine-learning
-business-intelligence
