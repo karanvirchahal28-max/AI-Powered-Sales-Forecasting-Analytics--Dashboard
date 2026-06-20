@@ -1,5 +1,4 @@
 # 🚀 AI-Powered Sales Forecasting Analytics Dashboard
-# Descruption: Added comprehensive project details for the AI-Powered Sales Forecasting Analytics Dashboard, including features, tech stack, installation instructions, and future enhancements.
 ## 📌 Project Overview
 
 Developed an end-to-end interactive Business Intelligence Dashboard to analyze sales performance, customer behavior, product trends, and forecast future sales using Machine Learning.
