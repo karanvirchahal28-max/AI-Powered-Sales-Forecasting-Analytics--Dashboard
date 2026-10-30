@@ -4,9 +4,9 @@ An interactive Business Intelligence Dashboard built using **Python, Pandas, Str
 
 ## 🌐 Live Demo
 
-🚀 **Live Application:** [Launch Sales Analytics Dashboard](https://ai-powered-sales-forecasting-analytics--dashboard-lsmkrrch9y9s.streamlit.app/)
+🚀 **Live Dashboard:** [View Application](https://ai-powered-sales-forecasting-analytics--dashboard-lsmkrrch9y9s.streamlit.app/)
 
-☁️ **Deployment Platform:** Streamlit Community Cloud
+☁️ **Hosted on:** Streamlit Community Cloud
 
 ## 📌 Project Overview
 
