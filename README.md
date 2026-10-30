@@ -6,6 +6,12 @@ Developed an end-to-end interactive Business Intelligence Dashboard to analyze s
 The dashboard enables business users to gain actionable insights through dynamic filtering, KPI tracking, interactive visualizations, and AI-based sales forecasting.
 
 ---
+🌐 Live Demo
+
+🚀 Live Application: Launch Sales Analytics Dashboard
+
+☁️ Deployment Platform: Streamlit Community Cloud
+
 
 ## 🔥 Key Features
 
@@ -156,7 +162,7 @@ streamlit run dashboard.py
 - Developed interactive business intelligence visualizations for sales, profit, customer, and product analytics.
 - Implemented machine learning-based sales forecasting to predict future business performance.
 - Integrated dynamic filtering, KPI monitoring, and export functionality for decision support.
-- Applied data preprocessing, exploratory data analysis (EDA), and forecasting techniques on 5,000+ sales records.
+- Applied data preprocessing, exploratory data analysis (EDA), and forecasting techniques on 10,000+ sales records.
 
 ---
 
